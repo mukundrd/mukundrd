@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukundrd
-- 👀 I’m interested in programming, java, kotlin, python
-- 🌱 I’m currently learning messaging broker esp. kafka and data science
+- 👀 I’m interested in programming, java, kotlin, python, asp.net
+- 🌱 I’m currently learning redis for large scale and querying.
 - 💞️ I’m looking to collaborate on building distributed systems
 - 📫 Reach me mukundrd@gmail.com
 
